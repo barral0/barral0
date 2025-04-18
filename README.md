@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: barral@filipebarral.pro or barral0 in Discord
 - ⚡ Fun fact: ...
-
-ChatGPT 	![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 <!---
 barral0/barral0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
